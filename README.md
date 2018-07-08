@@ -25,8 +25,8 @@ This repository contains following files-
 - Clone the repository-
 
 ```
-   git clone https://github.com/Rtannu/DigitRecognition.git
-   cd DigitRecognition
+   git clone https://github.com/Rtannu/snakeGame.git
+   cd snakeGame
 ```
 - next step to compile  mainGame.java and run mainGame class-
  ```
