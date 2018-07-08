@@ -40,3 +40,12 @@ This repository contains following files-
    javac mainGame.java
    java mainGame
 ```
+## Results
+### Sample Image 1
+  ![Screenshot1](https://github.com/Rtannu/snakeGame/blob/master/Screenshot1.png)
+  
+### Sample Image 2
+  ![Screenshot2](https://github.com/Rtannu/snakeGame/blob/master/Screenshot2.png)
+  
+  
+  
