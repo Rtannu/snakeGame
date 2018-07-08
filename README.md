@@ -1,2 +1,5 @@
 # snakeGame
-snakeGame in java
+snakeGame using java
+
+## Dependencies
+1. util
